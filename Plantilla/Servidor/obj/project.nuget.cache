@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N1KPXqjSaKJXuwdzepn0NALx9DWYUuE3ul2WL5B3DpSLlR3Y9nHfCr139wOg2f3uVzhp82/vcQaAlS729VzJqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iker\\Documents\\Altuna_nunez_iker_psp\\Plantilla\\Servidor\\Servidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iker\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
